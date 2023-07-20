@@ -1,1 +1,2 @@
 # mlb-optimizer
+Using odds data from [the-odds-api](https://the-odds-api.com/) and stats data from [fantasydata](https://fantasydata.com/), [Gurobi](https://www.gurobi.com/) is used to find the most optimal prop bet per MLB game that day.
